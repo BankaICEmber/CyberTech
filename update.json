@@ -1,0 +1,11 @@
+{
+  "homepage": "https://cybertech.fandom.com/wiki/CyberTech_Wiki", 
+  "1.20.1": {
+    "1.0.0": "Initial release with cybernetic suits and armor technologies.", 
+    "1.1.0": "Added new armor upgrades, bug fixes, and performance improvements."
+  }, 
+  "promos": {
+    "1.20.1-latest": "1.1.0", 
+    "1.20.1-recommended": "1.0.0"
+  }
+}
